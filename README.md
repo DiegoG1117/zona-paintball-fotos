@@ -16,5 +16,7 @@ Fotos públicas para que el bot de WhatsApp las envíe. Cada archivo es un id de
 | finca-casa | finca-casa.jpg | La finca, casa y zona de mesas |
 | finca-aerea | finca-aerea.jpg | Vista aérea de los campos |
 | aviso-no-alimentos | aviso-no-alimentos.jpg | No se permite ingreso de líquidos y alimentos |
+| menu1 | menu1.jpg | Primera foto del menú de comidas |
+| menu2 | menu2.jpg | Segunda foto del menú de comidas |
 
 Para agregar otra foto: sube el jpg a este repositorio y usa el mismo nombre como id en el catálogo de n8n.
